@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707940630530",
+    "project_id": "tamilapp-59966",
+    "storage_bucket": "tamilapp-59966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707940630530:android:155736e033775355f4e71b",
+        "android_client_info": {
+          "package_name": "com.example.tamil_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707940630530-ajksc4143q6afq1hidfq6vkdsn17r1hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBef1x4kx1E01FmqSXTM_7ltQqFCI20vno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707940630530-ajksc4143q6afq1hidfq6vkdsn17r1hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
